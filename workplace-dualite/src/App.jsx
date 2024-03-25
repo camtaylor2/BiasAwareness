@@ -42,8 +42,10 @@ const App = () => {
             &nbsp;{""} <br /> &nbsp;{""} <br /> &nbsp;{""} <br />{" "}
           </span>
         </div>
-        <div className="blocking-out-th-1-733028 pos-abs" id="id-10236">
-          <li>Blocking out the names and gender of applicants during the hiring process and instead anonymize them by giving them a number attached to their application materials</li>
+        <div className="combat-bias">
+          <ul>
+            <li>Blocking out the names and gender of applicants during the hiring process and instead anonymize them by giving them a number attached to their application materials</li>
+          </ul>
         </div>
         <div className="at-my-job-i-hav-1-353130 pos-abs" id="id-13828">
           <span className="at-my-job-i-hav-1-353130-0">
