@@ -1,5 +1,6 @@
 import React, { useEffect } from "react";
 import ReactDOM from "react-dom/client";
+import { Link } from 'react-router-dom';
 import "./style.css";
 import "./animation.css";
 import runAnimations, { allLinks, allFunctions } from "./scripts";
@@ -43,26 +44,30 @@ const App = () => {
           </span>
         </div>
         <div className="combat-bias">
-          <ul>
-            <li>Blocking out the names and gender of applicants during the hiring process and instead anonymize them by giving them a number attached to their application materials</li>
-          </ul>
+          <span className = "combat-bias-1-733028 pos-abs" id="id-10236">
+            {
+            <ul style= 'disc'>
+              <li>Blocking out the names and gender of applicants during the hiring process and instead anonymize them by giving them a number attached to their application materials</li>
+            </ul>
+            }
+          </span>
         </div>
-        <div className="at-my-job-i-hav-1-353130 pos-abs" id="id-13828">
-          <span className="at-my-job-i-hav-1-353130-0">
+        <div className="testimonial1" id="id-13828">
+          <span className="testimonial1-1-353130-0">
             {
               "“At my job, I have repeatedly expressed that I wanted to work the cash register since I’m friendly, good with people, and fast at learning technology. When I was hired, I said I wanted to work the cash register but was told I would need more experience on the job before they let me do it. They let a less experienced white coworker of mine work the cash register”"
             }
           </span>
         </div>
-        <div className="my-supervisor-w-1-63407 pos-abs" id="id-13831">
-          <span className="my-supervisor-w-1-63407-0">
+        <div className="testimonial2-1-63407 pos-abs" id="id-13831">
+          <span className="testimonial2-1-63407-0">
             {
               "“My supervisor (white woman) kept suggesting I listen to a particular song from a soundtrack, saying “I think you’ll really like it”. When I got home and played it, it was a song about white women lusting after black boys”."
             }
           </span>
         </div>
-        <div className="it-is-sickening-1-165086 pos-abs" id="id-13832">
-          <span className="it-is-sickening-1-165086-0">
+        <div className="testimonial3-1-165086 pos-abs" id="id-13832">
+          <span className="testimonial3-1-165086-0">
             {
               "“It is sickening... how Villanova Dining Services minority staff are being treated very unfairly. TILL THIS DAY. I know a guy who worked his ass off there for so many years and wouldn’t let him advance, POC in the dining service department NEED YOUR HELP. They don’t have a voice because of fear of termination”"
             }
