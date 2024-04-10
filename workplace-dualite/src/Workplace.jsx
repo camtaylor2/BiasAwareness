@@ -95,26 +95,7 @@ const App = () => {
               >
                 {" "}
               </div>
-            </div>
-            <div className="ellipse-21-0-256091 pos-abs" id="id-513"></div>
-            <div className="ellipse-31-0-503904 pos-abs" id="id-514"></div>
-            <div className="testimonials1-0-153657 pos-abs" id="id-9629">
-              <span className="testimonials1-0-153657-0">
-                {"Testimonials:"}
-              </span>
-            </div>
-            <div className="how-can-we-comb-0-105370 pos-abs" id="id-9628">
-              <span className="how-can-we-comb-0-105370-0">
-                {"How can we combat this bias?"}
-              </span>
-            </div>
-            <div className="how-does-bias-m-0-640068 pos-abs" id="id-1417">
-              <span className="how-does-bias-m-0-640068-0">
-                {"How does bias manifest in the workplace?"}
-              </span>
-            </div>
-           
-            <div className="ellipse-11-0-468951 pos-abs" id="id-512"></div>
+            </div>          
           </div>
         </div>
       </div>
